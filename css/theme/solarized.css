@@ -1,4 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+
 /**
  * Solarized Light theme for reveal.js.
  * Author: Achim Staebler
@@ -25,7 +28,7 @@ body {
   background-color: #fdf6e3; }
 
 .reveal {
-  font-family: "Lato", sans-serif;
+  font-family: "Hanna", "Lato", sans-serif;
   font-size: 36px;
   font-weight: normal;
   letter-spacing: -0.02em;
@@ -47,7 +50,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #586e75;
-  font-family: "League Gothic", Impact, sans-serif;
+  font-family: "Hanna", "League Gothic", Impact, sans-serif;
   line-height: 0.9em;
   letter-spacing: 0.02em;
   text-transform: uppercase;
